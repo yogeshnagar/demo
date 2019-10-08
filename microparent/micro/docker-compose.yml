@@ -1,0 +1,6 @@
+version: '2'
+services:
+   micro: 
+      image: yogeshnagaruk/microservices-micro
+      ports:
+         - 8082:8082

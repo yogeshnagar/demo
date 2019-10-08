@@ -1,0 +1,6 @@
+version: '2'
+services:
+   kuber:
+      image: yogeshnagaruk/microservices-kuber
+      ports:
+         - 8081:8081
